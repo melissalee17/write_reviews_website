@@ -1,0 +1,31 @@
+{
+    "message": "Review for Yanagi has been updated.",
+    "Location":
+    {
+        "address":"4404 W William Cannon Dr",
+        "city":"Austin",
+        "state":"Texas",
+        "zipcode":78749
+    },
+    "Restaurant":{
+        "dairy_free_items":true,
+        "description":"Solid Casual Japanese/Korean Place",
+        "dress_attire":"Casual",
+        "good_desserts":false,
+        "good_drinks":false,
+        "have_i_been":true,
+        "lunch_spot":true,
+        "name":"Yanagi",
+        "need_reservation":false,
+        "open_early":false,
+        "open_late":false,
+        "opinion":"A Japanese mom and pop with Korean owners which is why there's japchae on the menu. If you're looking for good sushi for not too crazy of a price point, I would recommend this place. I like to come here when I'm craving udon.",
+        "order_online":false,
+        "price":"$20-30",
+        "quick":false,
+        "study_spot":false,
+        "tags":null,
+        "veg_friendly":false,
+        "visiting_frequency":"Occasionally",
+        "website":"https://yanagitx.com/"}
+}

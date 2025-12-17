@@ -1,0 +1,30 @@
+{
+    "Location":
+    {
+        "address":null,
+        "city":"Austin",
+        "state":"Texas",
+        "zipcode":null
+    },
+    "Restaurant":{
+        "dairy_free_items":true,
+        "description":"Beer Garden/Patio",
+        "dress_attire":"casual",
+        "good_desserts":false,
+        "good_drinks":true,
+        "have_i_been":true,
+        "lunch_spot":true,
+        "name":"Radio Coffee & Beer",
+        "need_reservation":false,
+        "open_early":false,
+        "open_late":true,
+        "opinion":"A nice patio in South Austin. The parking situation is a little chaotic but they make it work. Haven't tried their beers so I can't speak to that but their coffee and thai iced tea are great. I like to go during the day and get a coffee and read or journal. One of these days I'll go during the night and try a beer so I can update this review.",
+        "order_online":true,
+        "price":"$0-10",
+        "quick":true,
+        "study_spot":true,
+        "tags":null,
+        "veg_friendly":true,
+        "visiting_frequency":"monthly",
+        "website":"https://radiocoffeeandbeer.com/"}
+}

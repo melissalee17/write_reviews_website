@@ -1,0 +1,40 @@
+.App {
+  padding: 0;
+}
+
+.Header {
+  border-bottom: 1px solid #ddd;
+}
+
+.Nav .nav-item {
+  width: 100%;
+}
+
+.Nav a {
+  color: #444;
+}
+
+.InputField, .Select, .SwitchField, .FileUpload{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.SwitchField .form-check-input {
+  height: 2rem;
+  width: calc(3rem + 0.75rem);
+}
+
+.SearchButton{
+  position: relative;
+  top: 45px;
+}
+
+.ResultCard{
+  margin-bottom: 5px;
+  width: 30rem;
+}
+
+.ResultCard :hover{
+  background: #4b65af;
+  color:aliceblue;
+}

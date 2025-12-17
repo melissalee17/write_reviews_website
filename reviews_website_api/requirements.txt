@@ -1,0 +1,7 @@
+flask
+pysqlite3
+flask-migrate
+flask-cors
+marshmallow
+sqlalchemy
+gunicorn

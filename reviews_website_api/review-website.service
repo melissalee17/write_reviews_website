@@ -1,0 +1,19 @@
+[Unit]
+Description=My review website
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/reviews_website_api/
+Environment=SITE_BUILD_PATH=/home/ubuntu/reviews_website/build
+Environment=FLASK_IMAGE_PATH=/home/ubuntu/reviews_website_api/photos
+Environment=REACT_APP_BASE_API_URL=http://[2600:1f18:1200:b000:7d5f:e8da:900:324d]:5000
+Environment=GUNICORN_HOST=[2600:1f18:1200:b000:7d5f:e8da:900:324d]:5000
+ExecStart=/home/ubuntu/reviews_website_api/venv/bin/gunicorn -b $GUNICORN_HOST reviews_website_api:app
+Restart=always
+RestartSec=5
+StartLimitInterval=5
+StartLimitBurst=10
+
+[Install]
+WantedBy=multi-user.target

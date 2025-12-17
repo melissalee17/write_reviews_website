@@ -1,0 +1,24 @@
+{
+    "Location": {},
+    "Restaurant":{
+        "dairy_free_items":true,
+        "description":"Northeastern Thai Food",
+        "dress_attire":"casual",
+        "good_desserts":true,
+        "good_drinks":false,
+        "have_i_been":true,
+        "lunch_spot":false,
+        "name":"DEE DEE : Farm-to-Table Northeastern Thai Food",
+        "need_reservation":false,
+        "open_early":false,
+        "open_late":false,
+        "opinion":"My friend saw this place on Vice Munchies and we tried it when I first moved to Austin. This place is insanely good. I like to get the pad kapow and mango sticky rice if they aren't sold out. You can only order online so I typically order before I leave the house and get the thai iced tea from Radio Coffee & Beer. If you go on the weekends, order before they even open because the wait can be around an hour if you don't. If you order during the week, it's normally a 10-20 minute wait so I try and go then.",
+        "order_online":true,
+        "price":"$20-30",
+        "quick":true,
+        "study_spot":true,
+        "tags":null,
+        "veg_friendly":true,
+        "visiting_frequency":"monthly",
+        "website":"https://www.deedeeatx.com/"}
+}

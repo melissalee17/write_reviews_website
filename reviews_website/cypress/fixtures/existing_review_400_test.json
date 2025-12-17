@@ -1,0 +1,30 @@
+{
+    "Location":
+    {
+        "address":"6105 Burnet Rd",
+        "city":"Austin",
+        "state":"Texas",
+        "zipcode":78757
+    },
+    "Restaurant":{
+        "dairy_free_items":true,
+        "description":"Japanese grocery store",
+        "dress_attire":"casual",
+        "good_desserts":true,
+        "good_drinks":true,
+        "have_i_been":true,
+        "lunch_spot":true,
+        "name":"Asahi Imports",
+        "need_reservation":false,
+        "open_early":false,
+        "open_late":false,
+        "opinion":"Best casual Japanese food in Austin. It's a grocery store or I guess it would more accurately be called a konbini. I go almost weekly to get their bento boxes and onigiri on work days because of how convenient they are. They only sell their bento boxes Wednesday-Sunday so I recommend going on one of those days and calling ahead to order (if you're going to the Burnet location) so you don't have to wait. On Friday-Sunday they have soft serve at the Burnet location so try that if you're there on one of those days.",
+        "order_online":false,
+        "price":"$10-20",
+        "quick":true,
+        "study_spot":false,
+        "tags":null,
+        "veg_friendly":true,
+        "visiting_frequency":"weekly",
+        "website":"https://asahiimports.com/"}
+}
