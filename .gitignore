@@ -1,4 +1,8 @@
 reviews_website_api/venv
+reviews_website_api/postgres.sql
+reviews_website_api/reviews_website_api/app.db
+reviews_website_api/reviews_website_api/migrations
+reviews_website/.env*
 reviews_website/build
 reviews_website/node_modules
 **/__pycache__/
